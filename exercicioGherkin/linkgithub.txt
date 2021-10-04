@@ -1,0 +1,9 @@
+Exercício do módulo 8 QA
+
+Douglas Fassi
+
+Link do GitHub
+
+https://github.com/Douglas-Fassi/exercicio_gherkin/blob/main/exercicioGherkin/exercicio_gherkin.feature
+
+ 
