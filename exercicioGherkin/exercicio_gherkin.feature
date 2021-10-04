@@ -11,7 +11,7 @@
             Dado que eu acesse a página de escolha de produtos
 
             Cenário: Seleção de cor, tamanho e quantidade devem ser obrigatórios
-            Quando eu selecionar a "cor", "tamanho" e "quantidade"
+            Quando eu selecionar a cor "cor", o tamanho "tamanho" e quantidade de "quantidade" produtos
             E adicionar ao carrinho
             Então eu posso prossegir clicando no botão comprar
 
